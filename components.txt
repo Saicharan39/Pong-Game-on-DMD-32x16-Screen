@@ -1,4 +1,4 @@
-16*32 DMD panel 
+32*16 DMD panel 
 Arduino Uno
 Battery 9V
 Jumper wires
